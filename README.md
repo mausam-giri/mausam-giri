@@ -81,6 +81,14 @@ deploy → observe → improve → automate → sleep
 ## 🚀 Latest Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#44](https://github.com/mausam-giri/PennyWise-ish/pull/44) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+2. 💪 Opened PR [#43](https://github.com/mausam-giri/PennyWise-ish/pull/43) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+3. 💪 Opened PR [#42](https://github.com/mausam-giri/PennyWise-ish/pull/42) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+4. 💪 Opened PR [#41](https://github.com/mausam-giri/PennyWise-ish/pull/41) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+5. 💪 Opened PR [#40](https://github.com/mausam-giri/PennyWise-ish/pull/40) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+6. 💪 Opened PR [#39](https://github.com/mausam-giri/PennyWise-ish/pull/39) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+7. 💪 Opened PR [#38](https://github.com/mausam-giri/PennyWise-ish/pull/38) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+8. 💪 Opened PR [#37](https://github.com/mausam-giri/PennyWise-ish/pull/37) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
 <!--END_SECTION:activity-->
 
 ---
