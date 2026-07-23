@@ -20,7 +20,7 @@
 
 <pre align="center">
 ╭──────────────────────────────────────────────────────────────╮
-│  🌦️  WEATHER OPS CONSOLE                          IST · IND  │
+│  🌦️  WEATHER OPS CONSOLE                          IST · IND  | 
 │  ──────────────────────────────────────────────────────────  │
 │  FORECAST     shipping reliable systems in the cloud         │
 │  PRESSURE     containers · k8s · IaC · CI/CD                 │
@@ -29,18 +29,8 @@
 ╰──────────────────────────────────────────────────────────────╯
 </pre>
 
-> **Mausam** means *weather* — I treat infrastructure the same way: read the signals, prepare for change, keep services flying through any front.
+> **Mausam** means *weather* -- I treat infrastructure the same way: read the signals, prepare for change, keep services flying through any front.
 
-### ☁️ Who I am
-
-Software engineer based in **India**, focused on **cloud platforms**, **containers**, and **ops that don't page you at 3am**. I build, ship, and harden systems — from VPC/ECS hands-ons to K8s labs and AWS best-practice tooling.
-
-- 🔭 Working across **AWS**, **Docker**, **Kubernetes**, and automation
-- 🌱 Deepening **platform engineering**, **observability**, and **IaC**
-- 💬 Ask me about cloud architecture, containers, CI/CD, and reliability
-- ⚡ Fun fact: my name literally forecasts the cloud work I do
-
----
 
 ## 🛰️ Cloud Ops Radar
 
@@ -87,7 +77,7 @@ deploy → observe → improve → automate → sleep
 </details>
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,7 +85,7 @@ deploy → observe → improve → automate → sleep
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mausam-giri&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1" alt="Top languages" />
 </div>
 
----
+--- -->
 
 ## 🔥 GitHub Streak
 
@@ -123,49 +113,8 @@ deploy → observe → improve → automate → sleep
   </picture>
 </div>
 
----
+<!-- ---
 
-## 🚀 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💻 WakaTime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mausam-giri&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&custom_title=Coding%20Hours%20(WakaTime)" alt="WakaTime stats" />
-</div>
-
-<details>
-<summary>Setup tip</summary>
-
-Link your [WakaTime](https://wakatime.com) account (username `mausam-giri` or update the URL above). Keep the WakaTime GitHub integration enabled so the card stays fresh.
-
-</details>
-
----
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-  <!-- Replace SPOTIFY_USER_ID after authorizing at https://spotify-github-profile.kittinanx.com/api/login -->
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0f172a&interchange=false&bar_color=38bdf8&bar_color_cover=false" alt="Spotify now playing" />
-  </a>
-</div>
-
-<details>
-<summary>Setup tip</summary>
-
-1. Open [spotify-github-profile login](https://spotify-github-profile.kittinanx.com/api/login)
-2. Authorize Spotify and copy your `uid`
-3. Replace `SPOTIFY_USER_ID` in the image URL above
-
-</details>
-
----
 
 ## 🌦️ Visitor Count
 
@@ -179,7 +128,7 @@ Link your [WakaTime](https://wakatime.com) account (username `mausam-giri` or up
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
