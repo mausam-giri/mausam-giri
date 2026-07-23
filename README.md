@@ -19,8 +19,8 @@
 ---
 
 <pre align="center">
-╭──────────────────────────────────────────────────────────────╮
-│  🌦️  WEATHER OPS CONSOLE                          IST · IND  | 
+ ──────────────────────────────────────────────────────────────
+   🌦️  WEATHER OPS CONSOLE                          IST · IND   
 │  ──────────────────────────────────────────────────────────  │
 │  FORECAST     shipping reliable systems in the cloud         │
 │  PRESSURE     containers · k8s · IaC · CI/CD                 │
@@ -77,7 +77,7 @@ deploy → observe → improve → automate → sleep
 </details>
 
 ---
-<!-- 
+ 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -85,7 +85,7 @@ deploy → observe → improve → automate → sleep
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mausam-giri&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1" alt="Top languages" />
 </div>
 
---- -->
+---
 
 ## 🔥 GitHub Streak
 
