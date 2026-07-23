@@ -77,13 +77,11 @@ deploy → observe → improve → automate → sleep
 </details>
 
 ---
- 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mausam-giri&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=0284c7" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mausam-giri&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1" alt="Top languages" />
-</div>
+## 🚀 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
