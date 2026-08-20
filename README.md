@@ -92,14 +92,14 @@ deploy → observe → improve → automate → sleep
 <!--END_SECTION:activity-->
 
 ---
-
+<!--
 ## 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mausam-giri&theme=transparent&hide_border=true&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&background=00000000" alt="GitHub streak" />
 </div>
-
 ---
+-->
 
 ## 📈 Contribution Graph
 
