@@ -77,10 +77,11 @@ deploy → observe → improve → automate → sleep
 </details>
 
 ---
-
+<!--
 ## 🚀 Latest Activity
-
+-->
 <!--START_SECTION:activity-->
+<!--
 1. 💪 Opened PR [#1](https://github.com/SunilYadav092/SunilYadav092/pull/1) in [SunilYadav092/SunilYadav092](https://github.com/SunilYadav092/SunilYadav092)
 2. 💪 Opened PR [#44](https://github.com/mausam-giri/PennyWise-ish/pull/44) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
 3. 💪 Opened PR [#43](https://github.com/mausam-giri/PennyWise-ish/pull/43) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
@@ -89,9 +90,9 @@ deploy → observe → improve → automate → sleep
 6. 💪 Opened PR [#40](https://github.com/mausam-giri/PennyWise-ish/pull/40) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
 7. 💪 Opened PR [#39](https://github.com/mausam-giri/PennyWise-ish/pull/39) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
 8. 💪 Opened PR [#38](https://github.com/mausam-giri/PennyWise-ish/pull/38) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+-->  
 <!--END_SECTION:activity-->
 
----
 <!--
 ## 🔥 GitHub Streak
 
