@@ -77,20 +77,6 @@ deploy → observe → improve → automate → sleep
 </details>
 
 ---
-<!--
-## 🚀 Latest Activity
--->
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SunilYadav092/SunilYadav092/pull/1) in [SunilYadav092/SunilYadav092](https://github.com/SunilYadav092/SunilYadav092)
-1. 💪 Opened PR [#1](https://github.com/SunilYadav092/SunilYadav092/pull/1) in [SunilYadav092/SunilYadav092](https://github.com/SunilYadav092/SunilYadav092)
-2. 💪 Opened PR [#44](https://github.com/mausam-giri/PennyWise-ish/pull/44) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-3. 💪 Opened PR [#43](https://github.com/mausam-giri/PennyWise-ish/pull/43) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-4. 💪 Opened PR [#42](https://github.com/mausam-giri/PennyWise-ish/pull/42) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-5. 💪 Opened PR [#41](https://github.com/mausam-giri/PennyWise-ish/pull/41) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-6. 💪 Opened PR [#40](https://github.com/mausam-giri/PennyWise-ish/pull/40) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-7. 💪 Opened PR [#39](https://github.com/mausam-giri/PennyWise-ish/pull/39) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-8. 💪 Opened PR [#38](https://github.com/mausam-giri/PennyWise-ish/pull/38) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
--->  
 <!--END_SECTION:activity-->
 
 <!--
@@ -102,13 +88,6 @@ deploy → observe → improve → automate → sleep
 ---
 -->
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mausam-giri&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=7dd3fc&area=true&hide_border=true&custom_title=Contribution%20Weather%20Map" alt="Contribution graph" />
-</div>
-
----
 
 ## 🐍 Snake Animation
 
